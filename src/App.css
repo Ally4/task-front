@@ -1,0 +1,65 @@
+/* nav {
+    z-index: 1001 !important;
+}
+
+.gradientBg {
+    background: linear-gradient(99deg, #EE9AE5 0%, #5961f9 100%);
+}
+
+.btnPrimary {
+    @apply py-3 px-8 bg-secondary font-semibold text-white rounded hover:bg-primary transition-all duration-300;
+} */
+
+
+
+.container-form {
+    /* width: 800px;
+    margin: 0 auto;
+    text-align: center; */
+    margin-top: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /* flex: 0 1 100%; */
+    margin-bottom: 20px;
+    flex-direction: column;
+    flex-wrap: wrap;
+    width: auto;
+  }
+  
+  
+  .input-group, .form-radios {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex: 0 1 100%;
+    margin-bottom: 20px;
+  }
+  
+  .form-text-area {
+    border: 0 !important;
+    outline: 0 !important;
+  }
+  
+  .form-text-area {
+    border-width: 1px !important;
+    border-style: solid !important;
+    border-color: black !important;
+  }
+  
+  .border-green {
+    border-color: green !important;
+  }
+  
+  .border-yellow {
+    border-color: yellow !important;
+  }
+  
+  .border-red {
+    border-color: red !important;
+  }
+  
+  .results {
+    display: block;
+    width: 100%;
+  }
